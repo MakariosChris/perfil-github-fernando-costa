@@ -1,8 +1,8 @@
-# Olá, me chamo Fernando Costa!  #
+# Olá, me chamo Fernando Costa!
 
-## *"Bem vindo ao meu perfil GitHub" 👋*  ##
+## "Bem vindo ao meu perfil GitHub" 👋
 
-<img src="C:\workspaces\perfil-github-fernando-costa\imagens\octocat-1682981555224.png" alt="Meu avatar!" style="zoom:15%;" /> <img src="C:\workspaces\perfil-github-fernando-costa\imagens\tenor.gif" alt="bomdial!" style="zoom:60%;" />
+<img src="imagens/octocat-1682981555224.png" alt="Meu avatar!" style="zoom:15%;" /> <img src="imagens/tenor.gif" alt="bomdial!" style="zoom:60%;" />
 
 ![fonte plátano!](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
