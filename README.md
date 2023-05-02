@@ -4,7 +4,7 @@
 
 
 
-![t200](imagens/t200.png) ![t201](imagens/t201.gif) ![jim201](C:\workspaces\perfil-github-fernando-costa\imagens\jim201.gif)
+![t200](imagens/t200.png) ![t201](imagens/t201.gif) ![jim201](imagens/jim201.gif)
 
 ![fonte plátano!](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
